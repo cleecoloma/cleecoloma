@@ -1,5 +1,7 @@
 # Chester Lee Coloma
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cleecoloma.cleecoloma)
+
 Hello! 👋 I'm Chester Lee Coloma, and I'm passionate about software development. Welcome to my GitHub profile.
 
 ## About Me
@@ -8,6 +10,7 @@ Hello! 👋 I'm Chester Lee Coloma, and I'm passionate about software developmen
 * 🌱 I’m currently learning AWS (EC2-Elastic Beanstalk-S3-Lambda-APIs-Dynamo DB-Messages Queues-Notifications) ***updated 10/06/2023***
 * 🤔 I'm interested in [Your Interests]
 * 💬 Ask me about [Topics you're knowledgeable about]
+🎉 Fun Fact: [Insert your fun fact here!]
 
 ## My Projects
 
@@ -16,7 +19,7 @@ Here are some of the recent projects I've worked on:
 * [Job Application Tracker](https://job-application-tracker-app.netlify.app/)
     * A mobile-responsive job application tracker web application using the MERN (MongoDB, Express, React, Node) stack, enabling users to seamlessly create, manage, and track job listings across four categories (Interested, Applied, Interview, Rejected).
 * [CookBot AI](https://cookbot-ai-app.netlify.app/)
-    * CookBot is a full-stack app using OpenAI's API to create recipe cards from user-input ingredients, allowing saving to profiles. Users provide ingredient lists, and OpenAI queries and displays results in a customizable modal..
+    * CookBot is a full-stack app using OpenAI's API to create recipe cards from user-input ingredients, allowing saving to profiles. Users provide ingredient lists, and OpenAI queries and displays results in a customizable modal.
 * [Quizzard Wizard](https://code-fellow-quizzards.github.io/quizzard-wizard/)
     * The Quizzard Wizard is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels..
 
@@ -30,14 +33,12 @@ Here are some of the recent projects I've worked on:
 
 You can connect with me on different platforms:
 
-* \[LinkedIn\]\(Link to your LinkedIn profile\)
-* \[Twitter\]\(Link to your Twitter profile\)
-* \[Personal Website/Blog\]\(Link to your website/blog\)
-* \[Email\]\(Your email address\)
+* [LinkedIn](https://www.linkedin.com/in/chesterleecoloma/)
+* [Email](mailto:your-email@example.com)
 
 ## My GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/YourUsername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/cleecoloma)
 
 ## Visitors Count
 
