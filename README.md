@@ -35,7 +35,7 @@ Here are some of the recent projects I've worked on:
 You can connect with me on different platforms:
 
 * [LinkedIn](https://www.linkedin.com/in/chesterleecoloma/)
-* [Email](mailto:your-email@example.com)
+* [Email](mailto:cleecoloma@gmail.com)
 
 ## My GitHub Stats
 
