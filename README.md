@@ -7,11 +7,11 @@ Hello! 👋 I'm Chester Lee Coloma, and I'm passionate about software developmen
 ## About Me
 
 * 💼 Currently attending Code Fellows - Advanced Software Development in Full-Stack Development  
-Graduating November 2023  
+    * Graduating November 2023
 * 🌱 I’m currently learning AWS (EC2-Elastic Beanstalk-S3-Lambda-APIs-Dynamo DB-Messages Queues-Notifications)  
-updated 10/06/2023  
-* 💬 Background: Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain US Navy submarines while adhering to rigid documentation.   
-* 🎉 Fun Fact: When I'm not coding, you'll find me diving into the fascinating world of lawn care, determined to have the best yard on the block. It's my little green oasis project beyond the keyboard.
+    * Updated 10/06/2023
+* 💬 Background:  Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain US Navy submarines while adhering to rigid documentation.   
+* 🎉 Fun Fact:  When I'm not coding, you'll find me diving into the fascinating world of lawn care, determined to have the best yard on the block. It's my little green oasis project beyond the keyboard.
 
 ## My Projects
 
@@ -26,9 +26,9 @@ Here are some of the recent projects I've worked on:
 
 ## Skills
 
-* **Programming Languages:** JavaScript
-* **Frameworks and Libraries:** React, Node, Express, MongoDB, Mongoose
-* **Tools and Technologies:** HTML5, CSS3, Microsoft Visual Studio Code, Git, GitHub,  Auth0, RESTful API, Bootstrap, Render, Netlify, Markdown, Jest, Supertest, Trello, Socket.io, Role Based Access Control, Basic Authentication, Bearer Authentication
+* **Programming Languages:**  JavaScript
+* **Frameworks and Libraries:**  React, Node, Express, MongoDB, Mongoose
+* **Tools and Technologies:**  HTML5, CSS3, Microsoft Visual Studio Code, Git, GitHub,  Auth0, RESTful API, Bootstrap, Render, Netlify, Markdown, Jest, Supertest, Trello, Socket.io, Role Based Access Control, Basic Authentication, Bearer Authentication
 
 ## Connect with Me
 
@@ -40,10 +40,6 @@ You can connect with me on different platforms:
 ## My GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/cleecoloma)
-
-## Visitors Count
-
-![Visitor Count](https://profile-counter.glitch.me/cleecoloma/count.svg)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about shared interests.
 
