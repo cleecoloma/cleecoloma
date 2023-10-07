@@ -11,14 +11,14 @@ Hello! 👋 I'm Chester Lee Coloma, and I'm passionate about software developmen
 
 ## My Projects
 
-Here are some of the projects I've worked on:
+Here are some of the recent projects I've worked on:
 
-* \[Project Name\]\(Link to the project repository\)
-    * Description of the project.
-* \[Project Name\]\(Link to the project repository\)
-    * Description of the project.
-* \[Project Name\]\(Link to the project repository\)
-    * Description of the project.
+* [Job Application Tracker](https://job-application-tracker-app.netlify.app/)
+    * A mobile-responsive job application tracker web application using the MERN (MongoDB, Express, React, Node) stack, enabling users to seamlessly create, manage, and track job listings across four categories (Interested, Applied, Interview, Rejected).
+* [CookBot AI](https://cookbot-ai-app.netlify.app/)
+    * CookBot is a full-stack app using OpenAI's API to create recipe cards from user-input ingredients, allowing saving to profiles. Users provide ingredient lists, and OpenAI queries and displays results in a customizable modal..
+* [Quizzard Wizard](https://code-fellow-quizzards.github.io/quizzard-wizard/)
+    * The Quizzard Wizard is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels..
 
 ## Skills
 
