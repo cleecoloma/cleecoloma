@@ -22,9 +22,9 @@ Here are some of the recent projects I've worked on:
 
 ## Skills
 
-* **Programming Languages:** [List of Programming Languages]
-* **Frameworks and Libraries:** [List of Frameworks and Libraries]
-* **Tools and Technologies:** [List of Tools and Technologies]
+* **Programming Languages:** JavaScript
+* **Frameworks and Libraries:** React, Node, Express, MongoDB, Mongoose
+* **Tools and Technologies:** HTML5, CSS3, Microsoft Visual Studio Code, Git, GitHub,  Auth0, RESTful API, Bootstrap, Render, Netlify, Markdown, Jest, Supertest, Trello, Socket.io, Role Based Access Control, Basic Authentication, Bearer Authentication
 
 ## Connect with Me
 
@@ -41,7 +41,7 @@ You can connect with me on different platforms:
 
 ## Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/cleecoloma/count.svg)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about shared interests.
 
