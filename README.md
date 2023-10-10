@@ -13,6 +13,14 @@ Hello! 👋 I'm Chester Lee Coloma, a Software Developer with a Mechanical Engin
 * 💬 Background: Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain US Navy submarines while adhering to rigid documentation.
 * 🎉 Fun Fact: When I'm not coding, you'll find me diving into the fascinating world of lawn care, determined to have the best yard on the block. It's my little green oasis project beyond the keyboard.
 
+## Growth Mindset
+> To me, a growth mindset is the ability to adapt to a new environment and the willingness to accept changes.
+
+#### Three Things I Do To Keep Myself In A Growth Mindset
+1. **Always learning new skills** - I always make an effort to continuously learn new skills, as it helps me stay in a growth mindset by embracing opportunities for personal and professional development.
+2. **Learn from mistakes** - One of the key principles I follow to maintain a growth mindset is to consistently learn from my mistakes, viewing them as valuable lessons that contribute to my ongoing growth and improvement.
+3. **Aspire to be a better version of myself** - To keep myself in a growth mindset, I continually aspire to become a better version of myself, setting goals and working towards self-improvement in various aspects of life, from character and skills to personal achievements and relationships.
+
 ## My Projects
 
 Here are some of the recent projects I've worked on:
