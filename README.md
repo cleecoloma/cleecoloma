@@ -18,7 +18,10 @@ Here are some of the recent projects I've worked on:
 * [CookBot AI](https://cookbot-ai-app.netlify.app/)
     * CookBot is a full-stack app using OpenAI's API to create recipe cards from user-input ingredients, allowing saving to profiles. Users provide ingredient lists, and OpenAI queries and displays results in a customizable modal..
 * [Quizzard Wizard](https://code-fellow-quizzards.github.io/quizzard-wizard/)
-    * The Quizzard Wizard is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels..
+    * The Quizzard Wizard is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels.
+* [Landscaping Company](https://cleecoloma.github.io/Landscaping-Company/)
+    * This is a landing page for a lawn company. This company offers services such as lawn care and maintenance, landscape design, garden design and installation, hardscape construction, and landscape lighting. The web page is made with HTML, CSS, and vanilla JavaScript.
+* 
 
 ## Skills
 
