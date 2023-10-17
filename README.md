@@ -21,7 +21,8 @@ Here are some of the recent projects I've worked on:
     * The Quizzard Wizard is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels.
 * [Landscaping Company](https://cleecoloma.github.io/Landscaping-Company/)
     * This is a landing page for a lawn company. This company offers services such as lawn care and maintenance, landscape design, garden design and installation, hardscape construction, and landscape lighting. The web page is made with HTML, CSS, and vanilla JavaScript.
-* 
+* [Chocolate Pizza](https://cleecoloma.github.io/chocolate-pizza-landing-page/)
+    * This landing page for a chocolate pizza recipe. It was created from a basic wireframe and design template. Images were provided; however, icons and fonts were at the developer's discretion.
 
 ## Skills
 
