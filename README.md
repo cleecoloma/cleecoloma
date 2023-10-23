@@ -6,9 +6,9 @@ Hello! 👋 I'm Chester Lee Coloma, a Software Developer with a Mechanical Engin
 
 ## About Me
 
-* 💼 Currently attending Code Fellows - Advanced Software Development in Full-Stack Development
+* 💼 Currently attending Code Fellows - Advanced Software Development in Full-Stack Development.
     * Graduating November 2023
-* 🌱 I’m currently learning about React Hooks
+* 🌱 I’m currently learning about React Hooks.
     * Updated 10/23/2023
 * ☁︎ Previously learned about AWS (EC2-Elastic Beanstalk-S3-Lambda-APIs-Dynamo DB-Messages Queues-Notifications). Project coming soon.
 * 💬 Background: Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain US Navy submarines while adhering to rigid documentation.
