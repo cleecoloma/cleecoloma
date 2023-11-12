@@ -8,9 +8,8 @@ Hello! 👋 I'm Chester Lee Coloma, a Software Developer with a Mechanical Engin
 
 * 💼 Currently attending Code Fellows - Advanced Software Development in Full-Stack Development.
     * Graduating November 2023
-* 🌱 I’m currently learning about React Hooks.
-    * Updated 10/23/2023
-* ☁︎ Previously learned about AWS (EC2-Elastic Beanstalk-S3-Lambda-APIs-Dynamo DB-Messages Queues-Notifications). Project coming soon.
+* 🌱 I’m currently learning about React Native.
+    * Updated 11/11/2023
 * 💬 Background: Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain US Navy submarines while adhering to rigid documentation.
 * 🎉 Fun Fact: When I'm not coding, you'll find me diving into the fascinating world of lawn care, determined to have the best yard on the block. It's my little green oasis project beyond the keyboard.
 
@@ -41,7 +40,7 @@ Here are some of the recent projects I've worked on:
 
 * **Programming Languages:** JavaScript
 * **Frameworks and Libraries:** React, Node, Express, MongoDB, Mongoose
-* **Tools and Technologies:** HTML5, CSS3, Microsoft Visual Studio Code, Git, GitHub, Auth0, RESTful API, Bootstrap, Render, Netlify, Markdown, Jest, Supertest, Trello, Socket.io, Role Based Access Control, Basic Authentication, Bearer Authentication
+* **Tools and Technologies:** HTML5, CSS3, Microsoft Visual Studio Code, Git, GitHub, Auth0, RESTful API, Bootstrap, Render, Netlify, Amazon Web Services (AWS) - [Lambda, DynamoDB, S3, API Gateway, SNS, SQS], Role Based Access Control, Basic Authentication, Bearer Authentication, Markdown, Jest, Supertest, Trello, Socket.io
 
 ## Connect with Me
 
