@@ -33,8 +33,12 @@ Here are some of the recent projects I've worked on:
 ## Skills
 
 * **Programming Languages:** JavaScript
-* **Frameworks and Libraries:** React, Node, Express, MongoDB, Mongoose
-* **Tools and Technologies:** HTML5, CSS3, Microsoft Visual Studio Code, Git, GitHub, Auth0, RESTful API, Bootstrap, Render, Netlify, Amazon Web Services (AWS) - [Lambda, DynamoDB, S3, API Gateway, SNS, SQS], Role Based Access Control, Basic Authentication, Bearer Authentication, Markdown, Jest, Supertest, Trello, Socket.io
+* **Markup Languages:** HTML, CSS
+* **Frameworks and Libraries:** React, Node, Express, MongoDB, Mongoose, Redux
+* **React Hooks:** useState, useEffect, useContext, useReducer
+* **Tools and Technologies:** Git, GitHub, Auth0, RESTful API, Bootstrap, React Native, Render, Netlify, Jest, Supertest, Thunder Client, Trello, VS Code
+* **Cloud Services:** AWS Cloud Services (Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB, SNS, and SQS), Google Cloud
+
 
 ## Connect with Me
 
