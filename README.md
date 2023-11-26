@@ -23,16 +23,12 @@ Hello! 👋 I'm Chester Lee Coloma, a Software Developer with a Mechanical Engin
 
 Here are some of the recent projects I've worked on:
 
+* [Lost Hub](https://lost-hub-app.netlify.app/)
+    * The Lost & Found app streamlines reporting and finding lost items, offering a user-friendly platform to report and retrieve belongings efficiently. It addresses the inconvenience of traditional lost and found systems by providing a centralized digital solution.
 * [Job Application Tracker](https://job-application-tracker-app.netlify.app/)
     * A mobile-responsive job application tracker web application using the MERN (MongoDB, Express, React, Node) stack, enabling users to seamlessly create, manage, and track job listings across four categories (Interested, Applied, Interview, Rejected).
 * [CookBot AI](https://cookbot-ai-app.netlify.app/)
     * CookBot is a full-stack app using OpenAI's API to create recipe cards from user-input ingredients, allowing saving to profiles. Users provide ingredient lists, and OpenAI queries and displays results in a customizable modal.
-* [Quizzard Wizard](https://code-fellow-quizzards.github.io/quizzard-wizard/)
-    * The Quizzard Wizard is a fun and engaging web application that challenges users with a wide range of exciting quizzes on various topics. Players can test their knowledge, compete with friends, and unlock achievements as they progress through levels.
-* [Landscaping Company](https://cleecoloma.github.io/Landscaping-Company/)
-    * This is a landing page for a lawn company. This company offers services such as lawn care and maintenance, landscape design, garden design and installation, hardscape construction, and landscape lighting. The web page is made with HTML, CSS, and vanilla JavaScript.
-* [Chocolate Pizza](https://cleecoloma.github.io/chocolate-pizza-landing-page/)
-    * This landing page for a chocolate pizza recipe. It was created from a basic wireframe and design template. Images were provided; however, icons and fonts were at the developer's discretion.
 
 ## Skills
 
