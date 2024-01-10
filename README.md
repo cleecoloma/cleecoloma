@@ -23,12 +23,15 @@ Hello! 👋 I'm Chester Lee Coloma, a Software Developer with a Mechanical Engin
 
 Here are some of the recent projects I've worked on:
 
+* [Quest Forge](https://quest-forge-app.netlify.app/)
+    * Embark on a captivating text-based adventure where you shape the destiny of your hero. This immersive web application allows users to create and customize their heroic characters, making critical decisions that will ultimately determine their fate. Engage in an epic journey filled with rich storytelling, challenging choices, and unexpected twists. Craft your hero's legend in Quest Forge and discover where your decisions lead in this interactive narrative experience.
+* [CookBot AI](https://cookbot-ai-app.netlify.app/)
+    * The CookBot AI Recipe Project is a web application designed to assist users in managing and exploring recipes. It leverages the power of artificial intelligence to simplify the process of creating, organizing, and discovering new recipes. Whether you're a cooking enthusiast, a culinary expert, or just looking for meal inspiration, CookBot AI offers a user-friendly platform to streamline your cooking experience.
 * [Lost Hub](https://lost-hub-app.netlify.app/)
     * The Lost & Found app streamlines reporting and finding lost items, offering a user-friendly platform to report and retrieve belongings efficiently. It addresses the inconvenience of traditional lost and found systems by providing a centralized digital solution.
 * [Job Application Tracker](https://job-application-tracker-app.netlify.app/)
     * A mobile-responsive job application tracker web application using the MERN (MongoDB, Express, React, Node) stack, enabling users to seamlessly create, manage, and track job listings across four categories (Interested, Applied, Interview, Rejected).
-* [CookBot AI](https://cookbot-ai-app.netlify.app/)
-    * CookBot is a full-stack app using OpenAI's API to create recipe cards from user-input ingredients, allowing saving to profiles. Users provide ingredient lists, and OpenAI queries and displays results in a customizable modal.
+
 
 ## Skills
 
