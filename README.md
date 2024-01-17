@@ -47,6 +47,7 @@ Here are some of the recent projects I've worked on:
 
 You can connect with me on different platforms:
 
+* [Personal Website](https://chesterleecoloma.com/)
 * [LinkedIn](https://www.linkedin.com/in/chesterleecoloma/)
 * [Email](mailto:cleecoloma@gmail.com)
 
