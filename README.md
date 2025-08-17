@@ -2,63 +2,51 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cleecoloma.cleecoloma)
 
-Hello! 👋 I'm Chester Lee Coloma, a Software Developer with a Mechanical Engineering background. Welcome to my GitHub profile.
+Hello! 👋 I'm Chester Lee Coloma, a **Software Engineer** with a background in **Mechanical Engineering**. Welcome to my GitHub profile.
 
-## About Me
+## About Me  
 
-* 💬 Background: Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain US Navy submarines while adhering to rigid documentation.
-* 💼 Attended Code Fellows - Advanced Software Development in Full-Stack Development.
-    * Graduated November 2023
-* 🎉 Fun Fact: When I'm not coding, you'll find me diving into the fascinating world of lawn care, determined to have the best yard on the block. It's my little green oasis project beyond the keyboard.
+* 💻 **Current Role:** Software Engineer II at Parsons Corporation, contributing to a large-scale federal search dashboard handling millions of records.  
+* 🎓 **Training:** Completed Code Fellows’ Advanced Software Development in Full-Stack JavaScript coding bootcamp, where I built and deployed multiple full-stack and cloud-based applications.  
+* 🔧 **Past Experience:** Former U.S. Navy Shipyard Mechanical Engineer (civilian role) with 8+ years of experience delivering disciplined, documentation-driven projects and collaborating across diverse technical teams.  
+* 🎉 **Fun Fact:** When I’m not coding, you’ll find me experimenting with lawn care — determined to have the best yard on the block. 🌱  
 
-## Growth Mindset
-> To me, a growth mindset is the ability to adapt to a new environment and the willingness to accept changes.
+## Growth Mindset  
 
-#### Three Things I Do To Keep Myself In A Growth Mindset
-1. **Always learning new skills** - I always make an effort to continuously learn new skills, as it helps me stay in a growth mindset by embracing opportunities for personal and professional development.
-2. **Learn from mistakes** - One of the key principles I follow to maintain a growth mindset is to consistently learn from my mistakes, viewing them as valuable lessons that contribute to my ongoing growth and improvement.
-3. **Aspire to be a better version of myself** - To keep myself in a growth mindset, I continually aspire to become a better version of myself, setting goals and working towards self-improvement in various aspects of life, from character and skills to personal achievements and relationships.
+> To me, a growth mindset is the ability to adapt to new environments and embrace change with curiosity.  
 
-## My Projects
+#### How I stay in a growth mindset:  
+1. **Continuous learning** — always exploring new frameworks, tools, and technologies.  
+2. **Learning from mistakes** — treating setbacks as lessons to iterate and improve.  
+3. **Striving for better** — setting goals to grow as both a developer and a teammate.  
 
-Here are some of the recent projects I've worked on:
+## My Projects  
 
-* [Quest Forge](https://quest-forge-app.netlify.app/)
-    * Embark on a captivating text-based adventure where you shape the destiny of your hero. This immersive web application allows users to create and customize their heroic characters, making critical decisions that will ultimately determine their fate. Engage in an epic journey filled with rich storytelling, challenging choices, and unexpected twists. Craft your hero's legend in Quest Forge and discover where your decisions lead in this interactive narrative experience.
-* [CookBot AI](https://cookbot-ai-app.netlify.app/)
-    * The CookBot AI Recipe Project is a web application designed to assist users in managing and exploring recipes. It leverages the power of artificial intelligence to simplify the process of creating, organizing, and discovering new recipes. Whether you're a cooking enthusiast, a culinary expert, or just looking for meal inspiration, CookBot AI offers a user-friendly platform to streamline your cooking experience.
-* [Lost Hub](https://lost-hub-app.netlify.app/)
-    * The Lost & Found app streamlines reporting and finding lost items, offering a user-friendly platform to report and retrieve belongings efficiently. It addresses the inconvenience of traditional lost and found systems by providing a centralized digital solution.
-* [Job Application Tracker](https://job-application-tracker-app.netlify.app/)
-    * A mobile-responsive job application tracker web application using the MERN (MongoDB, Express, React, Node) stack, enabling users to seamlessly create, manage, and track job listings across four categories (Interested, Applied, Interview, Rejected).
+Here are a few applications I built during my bootcamp and career transition:  
 
+* [Quest Forge](https://github.com/cleecoloma/quest-forge) – Interactive text-based adventure game powered by OpenAI APIs.  
+* [CookBot AI](https://github.com/cleecoloma/cookbot-ai-app) – Recipe generator using OpenAI + MERN stack to reduce food waste.  
+* [Job Application Tracker](hhttps://github.com/cleecoloma/job-application-tracker) – MERN-based tracker for managing job applications across stages.  
+* [Lost Hub](https://github.com/lost-hub-app) – A digital lost & found platform for streamlined reporting and retrieval.  
 
-## Skills
+*(Note: Some projects may not be actively maintained but showcase my learning journey.)*  
 
-* **Programming Languages:** JavaScript
-* **Markup Languages:** HTML, CSS
-* **Frameworks and Libraries:** React, Node, Express, MongoDB, Mongoose, Redux
-* **React Hooks:** useState, useEffect, useContext, useReducer
-* **Tools and Technologies:** Git, GitHub, Auth0, RESTful API, Bootstrap, React Native, Render, Netlify, Jest, Supertest, Thunder Client, Trello, VS Code
-* **Cloud Services:** AWS Cloud Services (Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB, SNS, and SQS), Google Cloud
+## Skills  
 
+* **Languages & Frameworks:** React, TypeScript, JavaScript, Next.js, Node.js, Express, Java, Spring Boot, HTML, CSS  
+* **Databases & Data Tools:** PostgreSQL, Elasticsearch, Logstash, Liquibase, MongoDB, DynamoDB  
+* **DevOps & Cloud:** Docker, Kubernetes, ArgoCD (GitOps), GitLab CI/CD, AWS (S3, Lambda, API Gateway)  
+* **Testing:** Jest, Cypress, Maven  
+* **Other Tools & Practices:** Git, GitHub, GitLab, Agile/Scrum, REST APIs, Redux, OpenAI APIs  
+* **Certifications & Clearance:** CompTIA Security+ CE | Active Secret Security Clearance  
 
-## Connect with Me
+## Connect with Me  
 
-You can connect with me on different platforms:
+* 💼 [LinkedIn](https://www.linkedin.com/in/chesterleecoloma/)  
+* 📧 [Email](mailto:cleecoloma@gmail.com)   
 
-* [Personal Website](https://chesterleecoloma.com/)
-* [LinkedIn](https://www.linkedin.com/in/chesterleecoloma/)
-* [Email](mailto:cleecoloma@gmail.com)
+---
 
-## My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cleecoloma&theme=dark)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleecoloma&layout=compact&theme=dark)](https://github.com/cleecoloma)
-
-- - -
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about shared interests.
+Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about shared interests.  
 
 Thanks for visiting! 🚀
